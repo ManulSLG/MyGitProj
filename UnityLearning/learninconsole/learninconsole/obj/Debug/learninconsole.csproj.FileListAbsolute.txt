@@ -1,0 +1,8 @@
+C:\Users\Manul\source\repos\learninconsole\learninconsole\bin\Debug\learninconsole.exe.config
+C:\Users\Manul\source\repos\learninconsole\learninconsole\bin\Debug\learninconsole.exe
+C:\Users\Manul\source\repos\learninconsole\learninconsole\bin\Debug\learninconsole.pdb
+C:\Users\Manul\source\repos\learninconsole\learninconsole\obj\Debug\learninconsole.csproj.AssemblyReference.cache
+C:\Users\Manul\source\repos\learninconsole\learninconsole\obj\Debug\learninconsole.csproj.CoreCompileInputs.cache
+C:\Users\Manul\source\repos\learninconsole\learninconsole\obj\Debug\learninconsole.exe
+C:\Users\Manul\source\repos\learninconsole\learninconsole\obj\Debug\learninconsole.pdb
+C:\Users\Manul\source\repos\learninconsole\learninconsole\obj\Debug\learninconsole.exe.config
